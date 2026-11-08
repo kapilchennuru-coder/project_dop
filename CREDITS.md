@@ -1,0 +1,27 @@
+# Picture credits
+
+All photographs come from Wikimedia Commons under the free licences shown. They are atmosphere only. None of them show Kapil, Maddirevula Charitha, or their actual school.
+
+- **exterior**: [Old building of Girls High School at Rajahmundry](https://commons.wikimedia.org/wiki/File:Old_building_of_Girls_High_School_at_Rajahmundry.jpg) by Adityamadhav83. CC BY-SA 4.0. Resized and colour graded.
+- **classroom**: [Baidya Para Girls High School 20201207 093212 04](https://commons.wikimedia.org/wiki/File:Baidya_Para_Girls_High_School_20201207_093212_04.jpg) by Sumita Roy Dutta. CC BY-SA 4.0. Resized and colour graded.
+- **benches**: [Skansen w Maurzycach, Łowicki Park Etnograficzny w Maurzycach, 2025, SOULinPIX, KsP 207](https://commons.wikimedia.org/wiki/File:Skansen_w_Maurzycach,_%C5%81owicki_Park_Etnograficzny_w_Maurzycach,_2025,_SOULinPIX,_KsP_207.jpg) by Krzysztof Popławski. CC BY-SA 4.0. Resized and colour graded.
+- **blackboard**: [太郎くんの誕生日 (48565855392)](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%83%8E%E3%81%8F%E3%82%93%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5_(48565855392).jpg) by Raita Futo from Tokyo, Japan. CC BY 2.0. Resized and colour graded.
+- **notebooks**: [SML Notebooks 20090903.10D.52443 SML (3882941631)](https://commons.wikimedia.org/wiki/File:SML_Notebooks_20090903.10D.52443_SML_(3882941631).jpg) by See-ming Lee from Hong Kong SAR, China. CC BY-SA 2.0. Resized and colour graded.
+- **corridor**: [Main Building corridor at Doon School](https://commons.wikimedia.org/wiki/File:Main_Building_corridor_at_Doon_School.jpg) by KramerVsSchramer. CC BY-SA 4.0. Resized and colour graded.
+- **window**: [Law Lecture Room - DPLA - d89543bcf215c96c249fd9d959ff5593](https://commons.wikimedia.org/wiki/File:Law_Lecture_Room_-_DPLA_-_d89543bcf215c96c249fd9d959ff5593.jpg) by Brackett, J. Raymond. Public domain. Resized and colour graded.
+- **bell**: [Gong (AM 1964.50-1)](https://commons.wikimedia.org/wiki/File:Gong_(AM_1964.50-1).jpg) by Unknown author. CC BY 4.0. Resized and colour graded.
+- **lamp**: [Pennaecalamaio](https://commons.wikimedia.org/wiki/File:Pennaecalamaio.jpg) by 66colpi. CC BY-SA 4.0. Resized and colour graded.
+- **pen**: [Writing-1209121 1920](https://commons.wikimedia.org/wiki/File:Writing-1209121_1920.jpg) by Free-Photos. CC0. Resized and colour graded.
+- **letters**: [Frances (Appleton) Longfellow to Anne Longfellow Pierce, 17 January 1845 (a058c4e7-5112-4e21-87e7-febb485779e7)](https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Anne_Longfellow_Pierce,_17_January_1845_(a058c4e7-5112-4e21-87e7-febb485779e7).jpg) by Fanny (Appleton) Longfellow (1817-1861). Public domain. Resized and colour graded.
+- **college**: [Shivalik-College-Outdoor-Campus-Route](https://commons.wikimedia.org/wiki/File:Shivalik-College-Outdoor-Campus-Route.jpg) by Shivalik College of Engineering Dehradun. CC BY-SA 4.0. Resized and colour graded.
+- **city**: [Long exposure of Durgam cheruvu road in Hyderabad](https://commons.wikimedia.org/wiki/File:Long_exposure_of_Durgam_cheruvu_road_in_Hyderabad.jpg) by iMahesh. CC BY-SA 4.0. Resized and colour graded.
+- **work**: [Urban Landscape of Hi-Tech City, Hyderabad – Architecture and Nightlife in 2025](https://commons.wikimedia.org/wiki/File:Urban_Landscape_of_Hi-Tech_City,_Hyderabad_%E2%80%93_Architecture_and_Nightlife_in_2025.jpg) by Mohammad Anees Qamar. CC BY 4.0. Resized and colour graded.
+- **hyderabad**: [Cable Bridge view from Dr.B.R. Ambedkar Open University Hyderabad Telangana](https://commons.wikimedia.org/wiki/File:Cable_Bridge_view_from_Dr.B.R._Ambedkar_Open_University_Hyderabad_Telangana.jpg) by Kavali Chandrakanth KCK. CC BY-SA 4.0. Resized and colour graded.
+- **chennai**: [Nappier bridge](https://commons.wikimedia.org/wiki/File:Nappier_bridge.jpg) by Ashokarsh. CC BY-SA 3.0. Resized and colour graded.
+- **road**: [Long Exposure of NH48, Gurgaon](https://commons.wikimedia.org/wiki/File:Long_Exposure_of_NH48,_Gurgaon.jpg) by Slyronit. CC BY-SA 4.0. Resized and colour graded.
+- **rail**: [Puri railway station at night 10](https://commons.wikimedia.org/wiki/File:Puri_railway_station_at_night_10.jpg) by Pinakpani. CC BY-SA 4.0. Resized and colour graded.
+- **kandil**: [Star shaped akash kandil](https://commons.wikimedia.org/wiki/File:Star_shaped_akash_kandil.jpg) by Le Priyavrat. CC BY-SA 4.0. Resized and colour graded.
+- **lanterns**: [A night lit up on Makar Sankranti Uttarayana Festival with Kites and Lights India](https://commons.wikimedia.org/wiki/File:A_night_lit_up_on_Makar_Sankranti_Uttarayana_Festival_with_Kites_and_Lights_India.jpg) by Bhavishya Goel from Gothenburg, Sweden. CC BY 2.0. Resized and colour graded.
+- **moon**: [A smiling Moon with Jupiter above it (55584958391)](https://commons.wikimedia.org/wiki/File:A_smiling_Moon_with_Jupiter_above_it_(55584958391).jpg) by Andrew Parlette. CC BY 4.0. Resized and colour graded.
+- **stars**: [Starry Starry Night (9416274426)](https://commons.wikimedia.org/wiki/File:Starry_Starry_Night_(9416274426).jpg) by Marines from Arlington, VA, United States. Public domain. Resized and colour graded.
+- **fireworks**: [DSC 6196 A dazzling burst of golden-orange fireworks lights up the night sky in a festive display](https://commons.wikimedia.org/wiki/File:DSC_6196_A_dazzling_burst_of_golden-orange_fireworks_lights_up_the_night_sky_in_a_festive_display.jpg) by PattayaPatrol. CC BY-SA 4.0. Resized and colour graded.

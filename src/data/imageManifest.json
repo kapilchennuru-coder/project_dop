@@ -1,0 +1,347 @@
+{
+ "exterior": {
+  "path": "school/exterior",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 2800,
+  "height": 1590,
+  "tone": "#908363",
+  "alt": "An old tiled-roof campus building in India among trees",
+  "title": "Old building of Girls High School at Rajahmundry",
+  "author": "Adityamadhav83",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_building_of_Girls_High_School_at_Rajahmundry.jpg"
+ },
+ "classroom": {
+  "path": "school/classroom",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1440,
+  "tone": "#786f60",
+  "alt": "An empty Indian classroom with rows of wooden benches",
+  "title": "Baidya Para Girls High School 20201207 093212 04",
+  "author": "Sumita Roy Dutta",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Baidya_Para_Girls_High_School_20201207_093212_04.jpg"
+ },
+ "benches": {
+  "path": "school/benches",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1280,
+  "tone": "#5a4b3b",
+  "alt": "Rows of old wooden school desks",
+  "title": "Skansen w Maurzycach, Łowicki Park Etnograficzny w Maurzycach, 2025, SOULinPIX, KsP 207",
+  "author": "Krzysztof Popławski",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Skansen_w_Maurzycach,_%C5%81owicki_Park_Etnograficzny_w_Maurzycach,_2025,_SOULinPIX,_KsP_207.jpg"
+ },
+ "blackboard": {
+  "path": "school/blackboard",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1280,
+  "tone": "#7e7050",
+  "alt": "A green classroom blackboard above wooden desks",
+  "title": "太郎くんの誕生日 (48565855392)",
+  "author": "Raita Futo from Tokyo, Japan",
+  "licence": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%83%8E%E3%81%8F%E3%82%93%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5_(48565855392).jpg"
+ },
+ "notebooks": {
+  "path": "school/notebooks",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1920,
+  "tone": "#76664f",
+  "alt": "A stack of well-used notebooks",
+  "title": "SML Notebooks 20090903.10D.52443 SML (3882941631)",
+  "author": "See-ming Lee from Hong Kong SAR, China",
+  "licence": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:SML_Notebooks_20090903.10D.52443_SML_(3882941631).jpg"
+ },
+ "corridor": {
+  "path": "school/corridor",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1250,
+  "tone": "#665142",
+  "alt": "A sunlit school corridor with red arches",
+  "title": "Main Building corridor at Doon School",
+  "author": "KramerVsSchramer",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Main_Building_corridor_at_Doon_School.jpg"
+ },
+ "window": {
+  "path": "school/window",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1485,
+  "tone": "#6c5841",
+  "alt": "Light through tall windows of an old, empty classroom",
+  "title": "Law Lecture Room - DPLA - d89543bcf215c96c249fd9d959ff5593",
+  "author": "Brackett, J. Raymond",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Law_Lecture_Room_-_DPLA_-_d89543bcf215c96c249fd9d959ff5593.jpg"
+ },
+ "bell": {
+  "path": "school/bell",
+  "widths": [
+   828,
+   1114
+  ],
+  "width": 1114,
+  "height": 1440,
+  "tone": "#856640",
+  "alt": "An old brass hand gong",
+  "title": "Gong (AM 1964.50-1)",
+  "author": "Unknown author",
+  "licence": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gong_(AM_1964.50-1).jpg"
+ },
+ "lamp": {
+  "path": "letters/lamp",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 2923,
+  "tone": "#9b8a75",
+  "alt": "A wooden writing desk with paper, pen and a bottle of ink",
+  "title": "Pennaecalamaio",
+  "author": "66colpi",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pennaecalamaio.jpg"
+ },
+ "pen": {
+  "path": "letters/pen",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1441,
+  "tone": "#857a61",
+  "alt": "A fountain pen writing on ruled paper",
+  "title": "Writing-1209121 1920",
+  "author": "Free-Photos",
+  "licence": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Writing-1209121_1920.jpg"
+ },
+ "letters": {
+  "path": "letters/letters",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1558,
+  "tone": "#cfb893",
+  "alt": "A very old handwritten letter from an archive",
+  "title": "Frances (Appleton) Longfellow to Anne Longfellow Pierce, 17 January 1845 (a058c4e7-5112-4e21-87e7-febb485779e7)",
+  "author": "Fanny (Appleton) Longfellow (1817-1861)",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Frances_(Appleton)_Longfellow_to_Anne_Longfellow_Pierce,_17_January_1845_(a058c4e7-5112-4e21-87e7-febb485779e7).jpg"
+ },
+ "college": {
+  "path": "growing/college",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1440,
+  "tone": "#8d9586",
+  "alt": "A palm-lined road through an Indian college campus",
+  "title": "Shivalik-College-Outdoor-Campus-Route",
+  "author": "Shivalik College of Engineering Dehradun",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Shivalik-College-Outdoor-Campus-Route.jpg"
+ },
+ "city": {
+  "path": "growing/city",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1259,
+  "tone": "#201716",
+  "alt": "City lights and traffic trails at night",
+  "title": "Long exposure of Durgam cheruvu road in Hyderabad",
+  "author": "iMahesh",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_exposure_of_Durgam_cheruvu_road_in_Hyderabad.jpg"
+ },
+ "work": {
+  "path": "growing/work",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 864,
+  "tone": "#4f4549",
+  "alt": "Office towers lit up at night",
+  "title": "Urban Landscape of Hi-Tech City, Hyderabad – Architecture and Nightlife in 2025",
+  "author": "Mohammad Anees Qamar",
+  "licence": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Urban_Landscape_of_Hi-Tech_City,_Hyderabad_%E2%80%93_Architecture_and_Nightlife_in_2025.jpg"
+ },
+ "hyderabad": {
+  "path": "journey/hyderabad",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1440,
+  "tone": "#4d5b83",
+  "alt": "Hyderabad at night, the cable bridge lit over the lake",
+  "title": "Cable Bridge view from Dr.B.R. Ambedkar Open University Hyderabad Telangana",
+  "author": "Kavali Chandrakanth KCK",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cable_Bridge_view_from_Dr.B.R._Ambedkar_Open_University_Hyderabad_Telangana.jpg"
+ },
+ "chennai": {
+  "path": "journey/chennai",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1280,
+  "tone": "#40214b",
+  "alt": "Chennai at dusk, lights reflected in the water",
+  "title": "Nappier bridge",
+  "author": "Ashokarsh",
+  "licence": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Nappier_bridge.jpg"
+ },
+ "road": {
+  "path": "journey/road",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1126,
+  "tone": "#34231a",
+  "alt": "A highway at night with streaks of traffic light",
+  "title": "Long Exposure of NH48, Gurgaon",
+  "author": "Slyronit",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Long_Exposure_of_NH48,_Gurgaon.jpg"
+ },
+ "rail": {
+  "path": "journey/rail",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1280,
+  "tone": "#514c5b",
+  "alt": "An Indian Railways train at a station platform at night",
+  "title": "Puri railway station at night 10",
+  "author": "Pinakpani",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Puri_railway_station_at_night_10.jpg"
+ },
+ "kandil": {
+  "path": "diwali/kandil",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1600,
+  "height": 1060,
+  "tone": "#110d19",
+  "alt": "A glowing star-shaped kandil in the dark",
+  "title": "Star shaped akash kandil",
+  "author": "Le Priyavrat",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Star_shaped_akash_kandil.jpg"
+ },
+ "lanterns": {
+  "path": "diwali/lanterns",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1012,
+  "tone": "#261612",
+  "alt": "A sky lantern rising over a city at night",
+  "title": "A night lit up on Makar Sankranti Uttarayana Festival with Kites and Lights India",
+  "author": "Bhavishya Goel from Gothenburg, Sweden",
+  "licence": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_night_lit_up_on_Makar_Sankranti_Uttarayana_Festival_with_Kites_and_Lights_India.jpg"
+ },
+ "moon": {
+  "path": "diwali/moon",
+  "widths": [
+   480
+  ],
+  "width": 978,
+  "height": 978,
+  "tone": "#100e0c",
+  "alt": "A thin crescent moon",
+  "title": "A smiling Moon with Jupiter above it (55584958391)",
+  "author": "Andrew Parlette",
+  "licence": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_smiling_Moon_with_Jupiter_above_it_(55584958391).jpg"
+ },
+ "stars": {
+  "path": "diwali/stars",
+  "widths": [
+   828,
+   1600,
+   2600
+  ],
+  "width": 4800,
+  "height": 1244,
+  "tone": "#121a4d",
+  "alt": "A deep blue sky full of stars",
+  "title": "Starry Starry Night (9416274426)",
+  "author": "Marines from Arlington, VA, United States",
+  "licence": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Starry_Starry_Night_(9416274426).jpg"
+ },
+ "fireworks": {
+  "path": "diwali/fireworks",
+  "widths": [
+   828,
+   1600
+  ],
+  "width": 1920,
+  "height": 1277,
+  "tone": "#9b4642",
+  "alt": "Gold and rose fireworks",
+  "title": "DSC 6196 A dazzling burst of golden-orange fireworks lights up the night sky in a festive display",
+  "author": "PattayaPatrol",
+  "licence": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:DSC_6196_A_dazzling_burst_of_golden-orange_fireworks_lights_up_the_night_sky_in_a_festive_display.jpg"
+ }
+}

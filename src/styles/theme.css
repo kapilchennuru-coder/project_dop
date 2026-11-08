@@ -1,0 +1,32 @@
+:root {
+  --midnight: #080d20;
+  --deep-blue: #101b38;
+  --royal-blue: #172344;
+  --gold: #f4c879;
+  --pale-gold: #ffe8b3;
+  --rose: #ed91b1;
+  --emerald: #8ddac0;
+  --soft-white: #f9f0df;
+  --muted: #c5c3ce;
+
+  --parchment: #efe3c8;
+  --parchment-deep: #d9c49c;
+  --ink: #3a2616;
+  --ink-soft: #66492e;
+  --ruled: rgba(70, 104, 160, 0.26);
+
+  --serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --hand: 'Kalam', 'Segoe Print', 'Bradley Hand', cursive;
+  --sans: 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --text-small: clamp(0.8rem, 0.76rem + 0.2vw, 0.9rem);
+  --text-body: clamp(1.15rem, 1.06rem + 0.45vw, 1.45rem);
+  --text-lede: clamp(1.3rem, 1.14rem + 0.8vw, 1.85rem);
+  --text-display: clamp(2.05rem, 1.45rem + 3vw, 4.2rem);
+  --text-hero: clamp(2.1rem, 0.9rem + 5.6vw, 6rem);
+
+  --gutter: clamp(1.15rem, 4vw, 3rem);
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}

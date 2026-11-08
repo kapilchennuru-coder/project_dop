@@ -1,0 +1,70 @@
+.school-art { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: clamp(1.6rem, 4vw, 2.6rem); max-width: 66rem; margin: 0 auto clamp(3rem, 8vw, 5.5rem); }
+.school-art figure { margin: 0; }
+.art { display: block; width: 100%; height: auto; border: 8px solid #fffdf5; border-radius: 6px; box-shadow: 0 14px 30px rgba(58, 38, 22, 0.32); }
+.school-art figcaption { margin-top: 0.7rem; text-align: center; font-family: var(--hand); font-size: 1.2rem; line-height: 1.3; color: var(--ink); }
+.art-chalk-label { font-family: var(--sans); font-size: 13px; font-weight: 500; letter-spacing: 0.14em; }
+
+.art-sun { animation: art-rise 9s ease-in-out infinite alternate; }
+@keyframes art-rise { from { transform: translateY(46px); } to { transform: translateY(-34px); } }
+.art-cloud--a { animation: art-drift 26s linear infinite; }
+.art-cloud--b { animation: art-drift 38s linear -12s infinite; }
+@keyframes art-drift { from { transform: translateX(-180px); } to { transform: translateX(640px); } }
+.art-birds { animation: art-birds 16s linear infinite; }
+@keyframes art-birds { from { transform: translate(-90px, 40px); } to { transform: translate(640px, -24px); } }
+.art-tree { transform-box: fill-box; transform-origin: 50% 100%; animation: art-sway 4.5s ease-in-out infinite alternate; }
+@keyframes art-sway { from { transform: rotate(-1.4deg); } to { transform: rotate(1.4deg); } }
+.art-bell { transform-box: fill-box; transform-origin: 50% 0; animation: art-swing 1.5s ease-in-out infinite alternate; }
+@keyframes art-swing { from { transform: rotate(-20deg); } to { transform: rotate(20deg); } }
+.art-flag { transform-box: fill-box; transform-origin: 0 50%; animation: art-wave 0.9s ease-in-out infinite alternate; }
+@keyframes art-wave { from { transform: skewY(-5deg) scaleX(1); } to { transform: skewY(6deg) scaleX(0.91); } }
+.art-window { animation: art-glow 3.4s ease-in-out infinite alternate; }
+.art-window--1 { animation-delay: -1.2s; }
+.art-window--2 { animation-delay: -2.2s; }
+@keyframes art-glow { from { fill: #fff3cf; } to { fill: #ffd98a; } }
+.art-plane { animation: art-plane 11s ease-in-out infinite; }
+@keyframes art-plane {
+  0% { transform: translate(-50px, 330px) rotate(-16deg); opacity: 0; }
+  8% { opacity: 1; }
+  55% { transform: translate(310px, 212px) rotate(-6deg); opacity: 1; }
+  92% { opacity: 1; }
+  100% { transform: translate(650px, 262px) rotate(12deg); opacity: 0; }
+}
+
+.art-fan { animation: art-spin 1.3s linear infinite; }
+@keyframes art-spin { to { transform: rotate(360deg); } }
+.art-draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: art-write 9s ease-in-out infinite; }
+.art-draw--2 { animation-name: art-write-2; }
+.art-draw--3 { animation-name: art-write-3; }
+.art-draw--4 { animation-name: art-write-4; }
+@keyframes art-write { 0% { stroke-dashoffset: 1; } 12%, 90% { stroke-dashoffset: 0; opacity: 1; } 98%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+@keyframes art-write-2 { 0%, 12% { stroke-dashoffset: 1; } 26%, 90% { stroke-dashoffset: 0; opacity: 1; } 98%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+@keyframes art-write-3 { 0%, 26% { stroke-dashoffset: 1; } 34%, 90% { stroke-dashoffset: 0; opacity: 1; } 98%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+@keyframes art-write-4 { 0%, 34% { stroke-dashoffset: 1; } 46%, 90% { stroke-dashoffset: 0; opacity: 1; } 98%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+.art-beam { opacity: 0.32; animation: art-beam 5s ease-in-out infinite alternate; }
+@keyframes art-beam { to { opacity: 0.58; } }
+.art-hand { transform-origin: 0 0; animation: art-spin linear infinite; }
+.art-hand--fast { animation-duration: 6s; }
+.art-hand--slow { animation-duration: 72s; }
+.art-notebook { transform-box: fill-box; transform-origin: 50% 100%; animation: art-tap 2.6s ease-in-out infinite alternate; }
+@keyframes art-tap { to { transform: translateY(-3px) rotate(-1.5deg); } }
+
+.art-tube { animation: art-flicker 6s linear infinite; }
+@keyframes art-flicker { 0%, 41%, 45%, 49%, 100% { opacity: 1; } 43%, 47% { opacity: 0.45; } }
+.art-wallfan { animation: art-oscillate 4s ease-in-out infinite alternate; }
+@keyframes art-oscillate { from { transform: scaleX(0.72) skewY(5deg); } to { transform: scaleX(0.92) skewY(-5deg); } }
+.art-blades { transform-box: fill-box; transform-origin: 50% 54%; animation: art-spin 0.8s linear infinite; }
+.art-dust { animation: art-float 7s ease-in-out infinite alternate; }
+.art-dust--1 { animation-duration: 9s; animation-delay: -3s; }
+.art-dust--2 { animation-duration: 11s; animation-delay: -6s; }
+@keyframes art-float { from { transform: translate(-10px, 16px); opacity: 0.15; } to { transform: translate(14px, -22px); opacity: 0.9; } }
+.art-sweep { animation: art-sweep 12s ease-in-out infinite; }
+@keyframes art-sweep { from { transform: translateX(0) skewX(-14deg); } to { transform: translateX(860px) skewX(-14deg); } }
+.art-rock { transform-box: fill-box; transform-origin: 50% 100%; animation: art-rock 3.2s ease-in-out infinite alternate; }
+@keyframes art-rock { from { transform: rotate(-0.9deg); } to { transform: rotate(0.9deg); } }
+.art-plane--room { animation-duration: 14s; animation-delay: -5s; }
+
+/* With reduced motion, finish on the written board rather than a blank one. */
+@media (prefers-reduced-motion: reduce) {
+  .art-draw { animation: none; stroke-dashoffset: 0; }
+  .art-plane { animation: none; opacity: 0; }
+}
